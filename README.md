@@ -16,3 +16,28 @@ This project for RYA2025 events , organize by PIF Club .
 ### b.HBridgeBoard
 
 ## 2.Firmware
+
+# III.Directory Tree 
+├───1.Documents
+├───2.Hardware
+│   ├───1.PCB
+│   │   ├───1.MainBoard
+│   │   │   ├───1.Project
+│   │   │   │   └───MainBoard_RYA
+│   │   │   │       ├───History
+│   │   │   │       ├───Project Logs for MainBoard_RYA
+│   │   │   │       └───Project Outputs for MainBoard_RYA
+│   │   │   ├───2.Schematic
+│   │   │   ├───3.Layout
+│   │   │   │   ├───1.MainBoardLayout
+│   │   │   │   └───2.PowerTesttingLayout
+│   │   │   ├───4.Mechanic
+│   │   │   ├───5.Gerber
+│   │   │   └───6.BOM
+│   │   └───2.HBridge
+│   └───2.Mechanic
+├───3.Firmware
+├───4.Report
+│   ├───Image
+│   └───Video
+└───5.Demo
