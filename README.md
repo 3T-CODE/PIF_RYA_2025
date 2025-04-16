@@ -3,7 +3,7 @@
 This project for RYA2025 events , organize by PIF Club .
 # II.Project Detail
 - [1.Hardware](#1hardware)
-- [a.MainBoard](#amainboard)
+  - [a.MainBoard](#amainboard)
 - [2.Firmware](#2firmware)
 ## 1.Hardware
 ### a.MainBoard
