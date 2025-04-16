@@ -4,6 +4,7 @@ This project for RYA2025 events , organize by PIF Club .
 # II.Project Detail
 - [1.Hardware](#1hardware)
   - [a.MainBoard](#amainboard)
+  - [b.HBridgeBoard](#bhbrigdeboard)
 - [2.Firmware](#2firmware)
 ## 1.Hardware
 ### a.MainBoard
@@ -11,5 +12,7 @@ This project for RYA2025 events , organize by PIF Club .
 <img src="https://github.com/user-attachments/assets/7c6bdbbd-e477-4c4c-abab-cb76dc45bbd3" alt="TopView" width="350" height="350">
 
 ![Image](https://github.com/user-attachments/assets/9ea6a7eb-5906-4b84-98e7-574d2d19b51c)
+
+### b.HBridgeBoard
 
 ## 2.Firmware
