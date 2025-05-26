@@ -137,6 +137,23 @@ GenerateClassCluster=0
 DocumentUniqueId=ZKVKXBWY
 
 [Document6]
+DocumentPath=..\..\PIF_Project\PIF_RYA_2025\2.Hardware\1.PCB\1.MainBoard\4.Mechanic\Mechanical_Information.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OURRVYKB
+
+[Document7]
 DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -153,7 +170,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KENZFYYH
 
-[Document7]
+[Document8]
+DocumentPath=MainBoard.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CWMFDYOE
+
+[Document9]
 DocumentPath=MainPCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -170,7 +204,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NNNGHTQE
 
-[Document8]
+[Document10]
 DocumentPath=PowerTestManual.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -187,7 +221,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CXVXLBMV
 
-[Document9]
+[Document11]
 DocumentPath=PowerTestManualPannel.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -204,7 +238,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CWJUIOHK
 
-[Document10]
+[Document12]
 DocumentPath=MainMCU.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -221,7 +255,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document13]
 DocumentPath=ST-LinkV2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -238,7 +272,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document14]
 DocumentPath=Header_and_OnboardConponents.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -255,24 +289,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
-DocumentPath=CAMtastic1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document14]
+[Document15]
 DocumentPath=MainBoard_RYA.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -290,126 +307,230 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for MainBoard_RYA\Design Rule Check - MainPCB.html
+DocumentPath=Project Outputs for MainBoard_RYA\Design Rule Check - MainBoard.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for MainBoard_RYA\MainPCB.DRR
+DocumentPath=Project Outputs for MainBoard_RYA\Design Rule Check - MainPCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for MainBoard_RYA\NC Drill\MainPCB.DRR
+DocumentPath=Project Outputs for MainBoard_RYA\MainBoard.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for MainBoard_RYA\Gerber\MainPCB.EXTREP
+DocumentPath=Project Outputs for MainBoard_RYA\MainBoard.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for MainBoard_RYA\MainPCB.EXTREP
+DocumentPath=Project Outputs for MainBoard_RYA\MainBoard.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for MainBoard_RYA\MainPCB.LDP
+DocumentPath=Project Outputs for MainBoard_RYA\MainBoard.REP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for MainBoard_RYA\MainPCB.REP
+DocumentPath=Project Outputs for MainBoard_RYA\MainBoard.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for MainBoard_RYA\MainPCB.TXT
+DocumentPath=Project Outputs for MainBoard_RYA\MainBoard_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for MainBoard_RYA\NC Drill\MainPCB.TXT
+DocumentPath=Project Outputs for MainBoard_RYA\MainBoard_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for MainBoard_RYA\MainBoard_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for MainBoard_RYA\MainBoard_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Drawing_1.gbr
+DocumentPath=Project Outputs for MainBoard_RYA\MainBoard_Mechanical_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Drillmap_1.gbr
+DocumentPath=Project Outputs for MainBoard_RYA\MainBoard_Mechanical_13.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Legend_Bot.gbr
+DocumentPath=Project Outputs for MainBoard_RYA\MainBoard_Mechanical_15.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Legend_Top.gbr
+DocumentPath=Project Outputs for MainBoard_RYA\MainBoard_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Mechanical_1.gbr
+DocumentPath=Project Outputs for MainBoard_RYA\MainBoard_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Mechanical_13.gbr
+DocumentPath=Project Outputs for MainBoard_RYA\MainBoard_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Mechanical_15.gbr
+DocumentPath=Project Outputs for MainBoard_RYA\MainBoard_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Pads_Bot.gbr
+DocumentPath=Project Outputs for MainBoard_RYA\MainBoard_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Pads_Top.gbr
+DocumentPath=Project Outputs for MainBoard_RYA\MainBoard_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Paste_Bot.gbr
+DocumentPath=Project Outputs for MainBoard_RYA\MainBoard_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Paste_Top.gbr
+DocumentPath=Project Outputs for MainBoard_RYA\MainBoard_Top_3D_Body.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Profile.gbr
+DocumentPath=Project Outputs for MainBoard_RYA\MainBoard_Top_Assembly.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for MainBoard_RYA\MainBoard_Top_Component_Center.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Soldermask_Top.gbr
+DocumentPath=Project Outputs for MainBoard_RYA\MainBoard_Top_Component_Outline.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Top_3D_Body.gbr
+DocumentPath=Project Outputs for MainBoard_RYA\MainBoard_Top_Courtyard.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Top_Assembly.gbr
+DocumentPath=Project Outputs for MainBoard_RYA\MainBoard_Top_Designator.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Top_Component_Center.gbr
+DocumentPath=Project Outputs for MainBoard_RYA\MainPCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Top_Component_Outline.gbr
+DocumentPath=Project Outputs for MainBoard_RYA\NC Drill\MainPCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Top_Courtyard.gbr
+DocumentPath=Project Outputs for MainBoard_RYA\Gerber\MainPCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument31]
+DocumentPath=Project Outputs for MainBoard_RYA\MainPCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for MainBoard_RYA\MainPCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for MainBoard_RYA\MainPCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for MainBoard_RYA\MainPCB.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for MainBoard_RYA\NC Drill\MainPCB.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Mechanical_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Top_3D_Body.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Top_Assembly.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Top_Component_Center.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Top_Component_Outline.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Top_Courtyard.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument57]
 DocumentPath=Project Outputs for MainBoard_RYA\MainPCB_Top_Designator.gbr
 DItemRevisionGUID=
 
@@ -548,7 +669,7 @@ OutputDefault1=0
 [OutputGroup3]
 Name=Documentation Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
 OutputType1=Composite
 OutputName1=Composite Drawing
@@ -721,7 +842,7 @@ OutputDefault8=0
 Configuration8_Name1=ForceUpdateSettings
 Configuration8_Item1=False
 Configuration8_Name2=OutputConfigurationParameter1
-Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes|DocumentPath=C:\Users\Public\Documents\Altium\MainBoard_RYA\MainPCB.PcbDoc
+Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes|DocumentPath=C:\Users\Public\Documents\Altium\MainBoard_RYA\MainBoard.PcbDoc
 OutputType9=IPC2581
 OutputName9=IPC-2581 Files
 OutputDocumentPath9=
@@ -746,7 +867,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=NNNGHTQE|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Single|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16908289~1,16908290~1,16908291~1,16908293~1,16908294~1,16908295~1,16908299~1,16908301~1,16908303~1,16973848~1,16973849~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName= |PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName= |PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=C:\Users\Public\Documents\Altium\MainBoard_RYA\MainPCB.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=CWMFDYOE|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Single|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16908289~1,16908290~1,16908291~1,16908293~1,16908294~1,16908295~1,16908299~1,16908301~1,16908303~1,16973848~1,16973849~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName= |UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName= |UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|DocumentPath=C:\Users\Public\Documents\Altium\MainBoard_RYA\MainBoard.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
@@ -759,6 +880,22 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=True|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=
+Configuration1_Name5=VisibleOrder
+Configuration1_Item5=Line #=53|Comment=145|Description=100|Designator=100|Revision ID=78|Revision Status=97|Quantity=66|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=142|Supplier 1=72|Supplier Part Number 1=138|Supplier Unit Price 1=122|Supplier Subtotal 1=116
+Configuration1_Name6=VisibleOrder_Base
+Configuration1_Item6=Line #=53|Comment=145|Description=100|Designator=100|Revision ID=78|Revision Status=97|Quantity=66|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=142|Supplier 1=72|Supplier Part Number 1=138|Supplier Unit Price 1=122|Supplier Subtotal 1=116
+Configuration1_Name7=VisibleOrder_Consolidated
+Configuration1_Item7=Line #=100|Comment=100|Description=100|Designator=100|Revision ID=100|Revision Status=100|Quantity=100|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=142|Supplier 1=72|Supplier Part Number 1=138|Supplier Unit Price 1=122|Supplier Subtotal 1=116
+Configuration1_Name8=VisibleOrder_Flat
+Configuration1_Item8=Line #=53|Comment=145|Description=100|Designator=77|Revision ID=100|Revision Status=97|Manufacturer 1=99|Manufacturer Part Number 1=166|Manufacturer Lifecycle 1=142|Supplier 1=72|Supplier Part Number 1=138|Supplier Unit Price 1=122|Supplier Subtotal 1=116
 OutputType2=BOM_ReportCompare
 OutputName2=BOM Compare
 OutputDocumentPath2=
@@ -1088,6 +1225,13 @@ Type148=1
 Type149=1
 Type150=1
 Type151=1
+Type152=1
+Type153=1
+Type154=1
+Type155=1
+Type156=1
+Type157=1
+Type158=1
 
 [Difference Levels]
 Type1=1
@@ -1172,6 +1316,10 @@ Type79=1
 Type80=1
 Type81=1
 Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1414,123 +1562,128 @@ Net9=NetName=B2|NetColor=clLime
 Net10=NetName=BOOT1|NetColor=clBlack
 Net11=NetName=D_N|NetColor=$00FFFF6E
 Net12=NetName=D_P|NetColor=$00FFFF6E
-Net13=NetName=HD_3V3|NetColor=clYellow
-Net14=NetName=HD_3V3_IO|NetColor=$006E6EFF
-Net15=NetName=HD_5V|NetColor=$000099FF
-Net16=NetName=HD_Vin|NetColor=clRed
-Net17=NetName=HD-SWCLK|NetColor=$00FF6E6E
-Net18=NetName=HD-SWDIO|NetColor=$00FF6E6E
-Net19=NetName=HD2.10|NetColor=clLime
-Net20=NetName=M_MCU_BOOT0|NetColor=clLime
-Net21=NetName=M_MCU_BOOT1|NetColor=$000099FF
-Net22=NetName=MCU_VBAT|NetColor=clYellow
-Net23=NetName=MCU-SWCLK|NetColor=$00FF6E6E
-Net24=NetName=MCU-SWDIO|NetColor=$00FF6E6E
-Net25=NetName=NetC?_2|NetColor=$006E6EFF
-Net26=NetName=NetC1_2|NetColor=$006E6EFF
-Net27=NetName=NetC20_2|NetColor=clRed
-Net28=NetName=NetD?_K|NetColor=$006E6EFF
-Net29=NetName=NetD3_K|NetColor=clRed
-Net30=NetName=NetF?_0|NetColor=$006E6EFF
-Net31=NetName=NetF?_1|NetColor=$006E6EFF
-Net32=NetName=NetF1_0|NetColor=clRed
-Net33=NetName=NetF1_1|NetColor=clRed
-Net34=NetName=NetF2_0|NetColor=$000099FF
-Net35=NetName=NetF2_1|NetColor=$000099FF
-Net36=NetName=NetF3_0|NetColor=clYellow
-Net37=NetName=NetF3_1|NetColor=clYellow
-Net38=NetName=NetF4_1|NetColor=clYellow
-Net39=NetName=NetJ?_P|NetColor=$006E6EFF
-Net40=NetName=NetJ12_1|NetColor=$00FF6E6E
-Net41=NetName=NetJ12_3|NetColor=$00FF6E6E
-Net42=NetName=NetJ2_1|NetColor=$006E6EFF
-Net43=NetName=NetJ2_2|NetColor=$00FFFF6E
-Net44=NetName=NetJ2_3|NetColor=$00FFFF6E
-Net45=NetName=NetJ2_P|NetColor=clYellow
-Net46=NetName=NetJ8_1|NetColor=$000099FF
-Net47=NetName=NetJ9_2|NetColor=clRed
-Net48=NetName=NetR1_2|NetColor=$006E6EFF
-Net49=NetName=NetR5_2|NetColor=$006E6EFF
-Net50=NetName=NetR6_2|NetColor=$006E6EFF
-Net51=NetName=NetU4_32|NetColor=$00FFFF6E
-Net52=NetName=NetU4_33|NetColor=$00FFFF6E
-Net53=NetName=PA10|NetColor=clBlack
-Net54=NetName=PA11|NetColor=clBlack
-Net55=NetName=PA12|NetColor=clBlack
-Net56=NetName=PA13|NetColor=$00FF6E6E
-Net57=NetName=PA14|NetColor=$00FF6E6E
-Net58=NetName=PA15|NetColor=clBlack
-Net59=NetName=PA3|NetColor=clBlack
-Net60=NetName=PA4|NetColor=clBlack
-Net61=NetName=PA5|NetColor=clBlack
-Net62=NetName=PA6|NetColor=clBlack
-Net63=NetName=PA7|NetColor=clBlack
-Net64=NetName=PA8|NetColor=clBlack
-Net65=NetName=PA9|NetColor=clBlack
-Net66=NetName=PB0|NetColor=clBlack
-Net67=NetName=PB1|NetColor=clBlack
-Net68=NetName=PB10|NetColor=clBlack
-Net69=NetName=PB11|NetColor=clBlack
-Net70=NetName=PB12|NetColor=clBlack
-Net71=NetName=PB13|NetColor=clBlack
-Net72=NetName=PB14|NetColor=clBlack
-Net73=NetName=PB15|NetColor=clBlack
-Net74=NetName=PB2|NetColor=clLime
-Net75=NetName=PB3|NetColor=clBlack
-Net76=NetName=PB4|NetColor=clBlack
-Net77=NetName=PB5|NetColor=clBlack
-Net78=NetName=PB6|NetColor=clBlack
-Net79=NetName=PB7|NetColor=clBlack
-Net80=NetName=PB8|NetColor=clBlack
-Net81=NetName=PB9|NetColor=clBlack
-Net82=NetName=PC10|NetColor=clBlack
-Net83=NetName=PC11|NetColor=clBlack
-Net84=NetName=PC12|NetColor=clBlack
-Net85=NetName=PC4|NetColor=clBlack
-Net86=NetName=PC5|NetColor=clBlack
-Net87=NetName=PC6|NetColor=clBlack
-Net88=NetName=PC7|NetColor=clBlack
-Net89=NetName=PC8|NetColor=clBlack
-Net90=NetName=PC9|NetColor=clBlack
-Net91=NetName=PD0|NetColor=clBlack
-Net92=NetName=PD1|NetColor=clBlack
-Net93=NetName=PD10|NetColor=clBlack
-Net94=NetName=PD11|NetColor=clBlack
-Net95=NetName=PD12|NetColor=clBlack
-Net96=NetName=PD13|NetColor=clBlack
-Net97=NetName=PD14|NetColor=clBlack
-Net98=NetName=PD15|NetColor=clBlack
-Net99=NetName=PD2|NetColor=clBlack
-Net100=NetName=PD3|NetColor=clBlack
-Net101=NetName=PD4|NetColor=clBlack
-Net102=NetName=PD5|NetColor=clBlack
-Net103=NetName=PD6|NetColor=clBlack
-Net104=NetName=PD7|NetColor=clBlack
-Net105=NetName=PD8|NetColor=clBlack
-Net106=NetName=PD9|NetColor=clBlack
-Net107=NetName=PE0|NetColor=clBlack
-Net108=NetName=PE1|NetColor=clBlack
-Net109=NetName=PE10|NetColor=clBlack
-Net110=NetName=PE11|NetColor=clBlack
-Net111=NetName=PE12|NetColor=clBlack
-Net112=NetName=PE13|NetColor=clBlack
-Net113=NetName=PE14|NetColor=clBlack
-Net114=NetName=PE15|NetColor=clBlack
-Net115=NetName=PE7|NetColor=clBlack
-Net116=NetName=PE8|NetColor=clBlack
-Net117=NetName=PE9|NetColor=clBlack
-Net118=NetName=PORT3|NetColor=$00FF6E6E
-Net119=NetName=PORT4|NetColor=$00FF6E6E
-Net120=NetName=STL_BOOT0|NetColor=$00751C35
-Net121=NetName=STL_BOOT1|NetColor=$00751C35
-Net122=NetName=STM32_SWCLK|NetColor=$00FF6E6E
-Net123=NetName=STM32_SWDIO|NetColor=$00FF6E6E
-Net124=NetName=SWD|NetColor=$00FF6E6E
-Net125=NetName=SWD.SWCLK|NetColor=$00FF6E6E
-Net126=NetName=SWD.SWDIO|NetColor=$00FF6E6E
-Net127=NetName=USB-D_N|NetColor=$00FFFF6E
-Net128=NetName=USB-D_P|NetColor=$00FFFF6E
-Net129=NetName=Vin_IO|NetColor=$006E6EFF
+Net13=NetName=Di_N|NetColor=$00FFFF6E
+Net14=NetName=Di_P|NetColor=$00FFFF6E
+Net15=NetName=HD_3V3|NetColor=clYellow
+Net16=NetName=HD_3V3_IO|NetColor=$006E6EFF
+Net17=NetName=HD_5V|NetColor=$000099FF
+Net18=NetName=HD_Vin|NetColor=clRed
+Net19=NetName=HD-SWCLK|NetColor=$00FF6E6E
+Net20=NetName=HD-SWDIO|NetColor=$00FF6E6E
+Net21=NetName=HD2.10|NetColor=clLime
+Net22=NetName=M_MCU_BOOT0|NetColor=clLime
+Net23=NetName=M_MCU_BOOT1|NetColor=$000099FF
+Net24=NetName=MCU_VBAT|NetColor=clYellow
+Net25=NetName=MCU-SWCLK|NetColor=$00FF6E6E
+Net26=NetName=MCU-SWDIO|NetColor=$00FF6E6E
+Net27=NetName=NetC?_2|NetColor=$006E6EFF
+Net28=NetName=NetC1_2|NetColor=$006E6EFF
+Net29=NetName=NetC20_2|NetColor=clRed
+Net30=NetName=NetC22_2|NetColor=$000099FF
+Net31=NetName=NetC24_1|NetColor=clYellow
+Net32=NetName=NetD?_K|NetColor=$006E6EFF
+Net33=NetName=NetD3_K|NetColor=clRed
+Net34=NetName=NetF?_0|NetColor=$006E6EFF
+Net35=NetName=NetF?_1|NetColor=$006E6EFF
+Net36=NetName=NetF1_0|NetColor=clRed
+Net37=NetName=NetF1_1|NetColor=clRed
+Net38=NetName=NetF2_0|NetColor=$000099FF
+Net39=NetName=NetF2_1|NetColor=$000099FF
+Net40=NetName=NetF3_0|NetColor=clYellow
+Net41=NetName=NetF3_1|NetColor=clYellow
+Net42=NetName=NetF4_1|NetColor=clYellow
+Net43=NetName=NetJ?_P|NetColor=$006E6EFF
+Net44=NetName=NetJ12_1|NetColor=$00FF6E6E
+Net45=NetName=NetJ12_3|NetColor=$00FF6E6E
+Net46=NetName=NetJ2_1|NetColor=$006E6EFF
+Net47=NetName=NetJ2_2|NetColor=$00FFFF6E
+Net48=NetName=NetJ2_3|NetColor=$00FFFF6E
+Net49=NetName=NetJ2_P|NetColor=clYellow
+Net50=NetName=NetJ8_1|NetColor=$000099FF
+Net51=NetName=NetJ9_2|NetColor=clRed
+Net52=NetName=NetR?_2|NetColor=$00FFFF6E
+Net53=NetName=NetR1_2|NetColor=$006E6EFF
+Net54=NetName=NetR5_2|NetColor=$006E6EFF
+Net55=NetName=NetR6_2|NetColor=$006E6EFF
+Net56=NetName=NetU4_32|NetColor=$00FFFF6E
+Net57=NetName=NetU4_33|NetColor=$00FFFF6E
+Net58=NetName=PA10|NetColor=clBlack
+Net59=NetName=PA11|NetColor=clBlack
+Net60=NetName=PA12|NetColor=clBlack
+Net61=NetName=PA13|NetColor=$00FF6E6E
+Net62=NetName=PA14|NetColor=$00FF6E6E
+Net63=NetName=PA15|NetColor=clBlack
+Net64=NetName=PA3|NetColor=clBlack
+Net65=NetName=PA4|NetColor=clBlack
+Net66=NetName=PA5|NetColor=clBlack
+Net67=NetName=PA6|NetColor=clBlack
+Net68=NetName=PA7|NetColor=clBlack
+Net69=NetName=PA8|NetColor=clBlack
+Net70=NetName=PA9|NetColor=clBlack
+Net71=NetName=PB0|NetColor=clBlack
+Net72=NetName=PB1|NetColor=clBlack
+Net73=NetName=PB10|NetColor=clBlack
+Net74=NetName=PB11|NetColor=clBlack
+Net75=NetName=PB12|NetColor=clBlack
+Net76=NetName=PB13|NetColor=clBlack
+Net77=NetName=PB14|NetColor=clBlack
+Net78=NetName=PB15|NetColor=clBlack
+Net79=NetName=PB2|NetColor=clLime
+Net80=NetName=PB3|NetColor=clBlack
+Net81=NetName=PB4|NetColor=clBlack
+Net82=NetName=PB5|NetColor=clBlack
+Net83=NetName=PB6|NetColor=clBlack
+Net84=NetName=PB7|NetColor=clBlack
+Net85=NetName=PB8|NetColor=clBlack
+Net86=NetName=PB9|NetColor=clBlack
+Net87=NetName=PC10|NetColor=clBlack
+Net88=NetName=PC11|NetColor=clBlack
+Net89=NetName=PC12|NetColor=clBlack
+Net90=NetName=PC4|NetColor=clBlack
+Net91=NetName=PC5|NetColor=clBlack
+Net92=NetName=PC6|NetColor=clBlack
+Net93=NetName=PC7|NetColor=clBlack
+Net94=NetName=PC8|NetColor=clBlack
+Net95=NetName=PC9|NetColor=clBlack
+Net96=NetName=PD0|NetColor=clBlack
+Net97=NetName=PD1|NetColor=clBlack
+Net98=NetName=PD10|NetColor=clBlack
+Net99=NetName=PD11|NetColor=clBlack
+Net100=NetName=PD12|NetColor=clBlack
+Net101=NetName=PD13|NetColor=clBlack
+Net102=NetName=PD14|NetColor=clBlack
+Net103=NetName=PD15|NetColor=clBlack
+Net104=NetName=PD2|NetColor=clBlack
+Net105=NetName=PD3|NetColor=clBlack
+Net106=NetName=PD4|NetColor=clBlack
+Net107=NetName=PD5|NetColor=clBlack
+Net108=NetName=PD6|NetColor=clBlack
+Net109=NetName=PD7|NetColor=clBlack
+Net110=NetName=PD8|NetColor=clBlack
+Net111=NetName=PD9|NetColor=clBlack
+Net112=NetName=PE0|NetColor=clBlack
+Net113=NetName=PE1|NetColor=clBlack
+Net114=NetName=PE10|NetColor=clBlack
+Net115=NetName=PE11|NetColor=clBlack
+Net116=NetName=PE12|NetColor=clBlack
+Net117=NetName=PE13|NetColor=clBlack
+Net118=NetName=PE14|NetColor=clBlack
+Net119=NetName=PE15|NetColor=clBlack
+Net120=NetName=PE7|NetColor=clBlack
+Net121=NetName=PE8|NetColor=clBlack
+Net122=NetName=PE9|NetColor=clBlack
+Net123=NetName=PORT3|NetColor=$00FF6E6E
+Net124=NetName=PORT4|NetColor=$00FF6E6E
+Net125=NetName=STL_BOOT0|NetColor=$00751C35
+Net126=NetName=STL_BOOT1|NetColor=$00751C35
+Net127=NetName=STM32_SWCLK|NetColor=$00FF6E6E
+Net128=NetName=STM32_SWDIO|NetColor=$00FF6E6E
+Net129=NetName=SWD|NetColor=$00FF6E6E
+Net130=NetName=SWD.SWCLK|NetColor=$00FF6E6E
+Net131=NetName=SWD.SWDIO|NetColor=$00FF6E6E
+Net132=NetName=USB-D_N|NetColor=$00FFFF6E
+Net133=NetName=USB-D_P|NetColor=$00FFFF6E
+Net134=NetName=Vin_IO|NetColor=$006E6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
