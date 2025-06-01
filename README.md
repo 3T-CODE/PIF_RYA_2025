@@ -16,8 +16,8 @@ This project for RYA2025 events , organize by PIF Club .
 ### b.HBridgeBoard
 
 ### c.MainSensor 
-<img src="https://github.com/user-attachments/assets/bdc9fa4a-2ad8-4877-858b-7a19f4095f17" alt="BotView" width="450" height="350">
-<img src="https://github.com/user-attachments/assets/f9227ec6-26be-4efb-ad17-90eb3f811bab" alt="TopView" width="450" height="350">
+<img src="https://github.com/user-attachments/assets/bdc9fa4a-2ad8-4877-858b-7a19f4095f17" alt="BotView" width="650" height="350">
+<img src="https://github.com/user-attachments/assets/f9227ec6-26be-4efb-ad17-90eb3f811bab" alt="TopView" width="650" height="350">
 
 ## 2.Firmware
 
