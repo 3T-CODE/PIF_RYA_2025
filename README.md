@@ -30,6 +30,7 @@ This project for RYA2025 events , organize by PIF Club .
 │   │   │   ├───1.Project
 │   │   │   │   └───MainBoard_RYA
 │   │   │   │       ├───History
+│   │   │   │       │   └───FFFFFFFF9A53FE5D
 │   │   │   │       ├───Project Logs for MainBoard_RYA
 │   │   │   │       └───Project Outputs for MainBoard_RYA
 │   │   │   ├───2.Schematic
@@ -39,7 +40,22 @@ This project for RYA2025 events , organize by PIF Club .
 │   │   │   ├───4.Mechanic
 │   │   │   ├───5.Gerber
 │   │   │   └───6.BOM
-│   │   └───2.HBridge
+│   │   ├───2.HBridge
+│   │   └───3.MainSensor
+│   │       ├───1.Project
+│   │       │   └───RYA_2025_SENSOR
+│   │       │       ├───History
+│   │       │       │   ├───000000001976E237
+│   │       │       │   ├───000000002AF5241D
+│   │       │       │   ├───000000007AA6D70D
+│   │       │       │   └───FFFFFFFFC1E600D4
+│   │       │       ├───Project Logs for RYA_SENSOR
+│   │       │       └───Project Outputs for RYA_SENSOR
+│   │       ├───2.Schematic
+│   │       ├───3.Layout
+│   │       ├───4.Mechanic
+│   │       ├───5.Gerber
+│   │       └───6.BOM
 │   └───2.Mechanic
 ├───3.Firmware
 ├───4.Report
