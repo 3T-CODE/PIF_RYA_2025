@@ -8,10 +8,10 @@ This project for RYA2025 events , organize by PIF Club .
 - [2.Firmware](#2firmware)
 ## 1.Hardware
 ### a.MainBoard
-<img src="https://github.com/user-attachments/assets/8089a303-c853-4895-ac29-bbc5983f9dfe" alt="BotView" width="350" height="350">
-<img src="https://github.com/user-attachments/assets/7c6bdbbd-e477-4c4c-abab-cb76dc45bbd3" alt="TopView" width="350" height="350">
+<img src="https://github.com/user-attachments/assets/4e24b936-ec22-419d-b0bd-f72ebf611ad4" alt="BotView" width="350" height="350">
+<img src="https://github.com/user-attachments/assets/412a1918-3cb1-4bc8-9cbd-6986af7856b4" alt="TopView" width="350" height="350">
 
-![Image](https://github.com/user-attachments/assets/9ea6a7eb-5906-4b84-98e7-574d2d19b51c)
+
 
 ### b.HBridgeBoard
 
