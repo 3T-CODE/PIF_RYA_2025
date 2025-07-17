@@ -17,11 +17,11 @@ This project for RYA2025 events , organize by PIF Club .
 - Overview
 <img width="1133" height="676" alt="Image" src="https://github.com/user-attachments/assets/1518b3db-593a-45c9-b425-25c26d6df358" />
 - HBridgeDriver
-<img width="1038" height="626" alt="Image" src="https://github.com/user-attachments/assets/eb2ce50a-d7c2-4e32-bd21-db79b9201598" />
-<img width="1110" height="653" alt="Image" src="https://github.com/user-attachments/assets/475a0d50-f845-4163-b287-7c095d61178a" />
+<img width="519" height="313" alt="Image" src="https://github.com/user-attachments/assets/eb2ce50a-d7c2-4e32-bd21-db79b9201598" />
+<img width="555" height="327" alt="Image" src="https://github.com/user-attachments/assets/475a0d50-f845-4163-b287-7c095d61178a" />
 - HBridgeMCU
-<img width="1112" height="552" alt="Image" src="https://github.com/user-attachments/assets/f778ce03-4216-4e64-900d-d100e93105e4" />
-<img width="1070" height="532" alt="{C7F0B999-A035-4663-996E-05547A0FA0A0}" src="https://github.com/user-attachments/assets/6c83a98b-204e-47b3-9de6-de85341e997a" />
+<img width="556" height="276" alt="Image" src="https://github.com/user-attachments/assets/f778ce03-4216-4e64-900d-d100e93105e4" />
+<img width="535" height="266" alt="{C7F0B999-A035-4663-996E-05547A0FA0A0}" src="https://github.com/user-attachments/assets/6c83a98b-204e-47b3-9de6-de85341e997a" />
 
 
 ### c.MainSensor 
