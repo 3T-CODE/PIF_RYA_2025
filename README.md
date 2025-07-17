@@ -15,7 +15,7 @@ This project for RYA2025 events , organize by PIF Club .
 
 ### b.HBridgeBoard
 - Overview
-<img width="1133" height="676" alt="Image" src="https://github.com/user-attachments/assets/1518b3db-593a-45c9-b425-25c26d6df358" />
+<img width="567" height="338" alt="Image" src="https://github.com/user-attachments/assets/1518b3db-593a-45c9-b425-25c26d6df358" />
 <br>
 - HBridgeDriver
 <br>
@@ -29,8 +29,8 @@ This project for RYA2025 events , organize by PIF Club .
 
 
 ### c.MainSensor 
-<img src="https://github.com/user-attachments/assets/bdc9fa4a-2ad8-4877-858b-7a19f4095f17" alt="BotView" width="650" height="350">
-<img src="https://github.com/user-attachments/assets/f9227ec6-26be-4efb-ad17-90eb3f811bab" alt="TopView" width="650" height="350">
+<img src="https://github.com/user-attachments/assets/bdc9fa4a-2ad8-4877-858b-7a19f4095f17" alt="BotView" width="325" height="175">
+<img src="https://github.com/user-attachments/assets/f9227ec6-26be-4efb-ad17-90eb3f811bab" alt="TopView" width="325" height="175">
 
 ## 2.Firmware
 
