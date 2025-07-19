@@ -36,9 +36,10 @@ ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=576D1682-A58E-446F-91EC-099C08CD699A
+ManagedProjectGUID=BC57B6AA-203C-4F67-96B8-448856118892
 VaultGUID=73AF9D26-BA6F-442F-A4BE-2B937E74BD62
 ReleaseVaultName=Tin Tran
+ItemGUID=BC57B6AA-203C-4F67-96B8-448856118892
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1
@@ -137,6 +138,23 @@ GenerateClassCluster=0
 DocumentUniqueId=ZKVKXBWY
 
 [Document6]
+DocumentPath=MainBoard.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XUEZEUMD
+
+[Document7]
 DocumentPath=..\..\PIF_Project\PIF_RYA_2025\2.Hardware\1.PCB\1.MainBoard\4.Mechanic\Mechanical_Information.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -153,7 +171,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OURRVYKB
 
-[Document7]
+[Document8]
 DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -170,7 +188,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KENZFYYH
 
-[Document8]
+[Document9]
 DocumentPath=MainBoard.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -187,7 +205,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CWMFDYOE
 
-[Document9]
+[Document10]
 DocumentPath=MainPCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -204,7 +222,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NNNGHTQE
 
-[Document10]
+[Document11]
 DocumentPath=PowerTestManual.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -221,7 +239,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CXVXLBMV
 
-[Document11]
+[Document12]
 DocumentPath=PowerTestManualPannel.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -238,7 +256,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CWJUIOHK
 
-[Document12]
+[Document13]
 DocumentPath=MainMCU.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -255,7 +273,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document14]
 DocumentPath=ST-LinkV2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -272,7 +290,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document15]
 DocumentPath=Header_and_OnboardConponents.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -289,7 +307,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document16]
 DocumentPath=MainBoard_RYA.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
