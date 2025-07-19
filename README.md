@@ -39,7 +39,7 @@ This project for RYA2025 events , organize by PIF Club .
 ### d.ServoShield
 - Overview
 <img width="200" height="198" alt="{E26ED104-2827-4951-8D7C-8456B76CEC80}" src="https://github.com/user-attachments/assets/4bd1958a-ab7c-4899-8db6-606d43f8147e" />
-<img width="774" height="771" alt="{BEBFCB29-CAE0-44E9-B002-607E1807A096}" src="https://github.com/user-attachments/assets/29dd4de3-30e0-4e1b-82d9-59a9a8461568" />
+<img width="200" height="198" alt="{BEBFCB29-CAE0-44E9-B002-607E1807A096}" src="https://github.com/user-attachments/assets/29dd4de3-30e0-4e1b-82d9-59a9a8461568" />
 
 
 - Combine MainBoard and Shield
