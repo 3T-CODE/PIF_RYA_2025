@@ -119,6 +119,13 @@ This project for RYA2025 events , organize by PIF Club .
 │   │       ├───5.Gerber
 │   │       └───6.BOM
 │   └───2.Mechanic
+│       └───PCB_Size_and_3DModel
+│           ├───1.MainBoard
+│           ├───2.HBridge
+│           │   ├───1.HBridgeMCU
+│           │   └───2.HBridgeDriver
+│           ├───3.MainSensor
+│           └───4.ServoSheild
 ├───3.Firmware
 ├───4.Report
 │   ├───Image
