@@ -5,6 +5,8 @@ This project for RYA2025 events , organize by PIF Club .
 - [1.Hardware](#1hardware)
   - [a.MainBoard](#amainboard)
   - [b.HBridgeBoard](#bhbridgeboard)
+  - [c.MainSensor](#cmainsensor)
+  - [d.ServoShield](#dservoshield)
 - [2.Firmware](#2firmware)
 ## 1.Hardware
 ### a.MainBoard
@@ -125,7 +127,13 @@ This project for RYA2025 events , organize by PIF Club .
 │           │   ├───1.HBridgeMCU
 │           │   └───2.HBridgeDriver
 │           ├───3.MainSensor
-│           └───4.ServoSheild
+│           ├───4.ServoSheild
+│           └───Other 3d model
+│               ├───Battery
+│               ├───Motor
+│               ├───Other PCB
+│               ├───Servo
+│               └───Wheel and tire
 ├───3.Firmware
 ├───4.Report
 │   ├───Image
